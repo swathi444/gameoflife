@@ -19,10 +19,10 @@
     <distributionManagement> 
   <repository> 
 	<id>nexus</id> 
-	<!-- CHANGE HERE by your team nexus server --> 	<url>18.191.46.176:8081/nexus/content/repositories/releases/</url>   </repository> 
+	<!-- CHANGE HERE by your team nexus server --> 	<url>18.223.158.179:8081/nexus/content/repositories/releases/</url>   </repository> 
   <snapshotRepository> 
 	<id>nexus</id> 
-	<!-- CHANGE HERE by your team nexus server --> <url>18.191.46.176:8081/nexus/content/repositories/snapshots/</url>  
+	<!-- CHANGE HERE by your team nexus server --> <url>18.223.158.179:8081/nexus/content/repositories/snapshots/</url>  
  </snapshotRepository> 
 </distributionManagement>
 
